@@ -1,0 +1,34 @@
+What is the IP address of the client in the capture:
+	IP:     	192.168.19.225
+	hostname:	WIN-FEMJC866VUH
+	MAC:		00:0c:29:9b:97:f1
+What is the operating system of the client in the capture:
+	Windows
+What is the username/password to the FTP server:
+	Username:	admin
+	Password:	goats123
+There was an error browsing a particular website. What was the URL and the error:
+	error:		404
+	url:		http://share.ialab.dsu.edu/csc420/goats.html
+The user visited 3 websites, what were they (remember, other sites may have had
+requests, what sites did the user specifically go to):
+	site 1:		https://www.paloaltonetworks.com/
+	site 2:		www.dsu.edu
+	site 3:		share.ialab.dsu.edu
+There was a DNS request for an MX record; what was it:
+			sjs.bizographics.com
+A request is made to “something”. msftncsi.com -> what is this for:
+			The domain dns.msftncsi.com is used by Microsoft Windows as part of it's Network Connectivity Status Indicator tests.
+What “hardware” was the machine involved in this capture running on:
+			a vmware mac, 00:0c:29:9b:97:f1
+There’s a file transferred over HTTP called “success.txt”. Where is it from, what are its
+contents, and what is its purpose:
+	content:		success\n	
+	what is its purpose:
+		 	It is used by Firefox when detecting whether it is using a captive portal.
+
+			A captive portal is a Web page that the user of a public-access network is obliged to
+			view and interact with before access is granted.
+
+			Captive portals are typically used by business centers, airports, hotel lobbies, 
+			coffee shops, and other venues that offer free Wi-Fi hot spots for Internet users.
